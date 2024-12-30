@@ -34,8 +34,8 @@ Project Documentation: E-commerce Application
 
 5. Future Enhancements
 
-  Product Management: Add APIs for creating, updating, and deleting products.
-  Order Management: Enable users to place and track orders.
-  Search and Filters: Allow users to search for products by name and apply category-based filters.
-  Email Notifications: Send email confirmations for registration and orders.
+    Product Management: Add APIs for creating, updating, and deleting products.
+    Order Management: Enable users to place and track orders.
+    Search and Filters: Allow users to search for products by name and apply category-based filters.
+    Email Notifications: Send email confirmations for registration and orders.
 
